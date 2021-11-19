@@ -1,0 +1,19 @@
+img{
+	max-width: 10000px;
+	height: auto;
+	width: 100%;
+	display:block ;
+	margin: auto;
+}
+div {
+	width: 70%;
+	margin: auto;
+}
+p{
+	font-size: 22;
+	color: #956be0;
+}
+h1 {
+   font-size: 65px;
+   color: green;
+}
